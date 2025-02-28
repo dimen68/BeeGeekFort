@@ -18,3 +18,5 @@ while len(d) > 1:
             break
 print(d[0])
 
+
+
